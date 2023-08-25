@@ -5,6 +5,7 @@ C coding challenges. My journey to mastering C programming by cracking problems,
 
 Here are some of the problems included in this repository:
 
+- [Permutations_of_Strings.c](Problems/Permutations_of_Strings.c)
 - [Post_Transition.c](Problems/Post_Transition.c)
 - [Boxes_through_a_Tunnel.c](Problems/Boxes_through_a_Tunnel.c)
 - [Calculate_the_N_Number.c](Problems/Calculate_the_N_Number.c)
