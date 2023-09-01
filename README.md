@@ -15,3 +15,6 @@ Here are some of the problems included in this repository:
 - [Small_Triangles_Large_Triangles.c](Problems/Small_Triangles_Large_Triangles.c)
 - [Students_Marks_Sum.c](Problems/Students_Marks_Sum.c)
 - [Dynamic_Array_in_C.c](Problems/Dynamic_Array_in_C.c)
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
